@@ -1,3 +1,5 @@
+# Liste von GIT-Commands
+
 **https://gist.github.com/jexchan/2351996**
 
 // create different ssh key according the article Mac Set-Up Git
@@ -50,7 +52,7 @@ $ ssh-add -l
 
 ---------------------------------------------------------------------
   
-  // !!!! Wenn wir einen Ordner namens ".git" löschen, repository wird komplett gelösch und wir können erneut mit GIT anfangen
+  **!!!! Wenn wir einen Ordner namens ".git" löschen, repository wird komplett gelösch und wir können erneut mit GIT anfangen**
   
   git status // Information über Zustand holen
   
