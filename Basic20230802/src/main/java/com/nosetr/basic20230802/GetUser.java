@@ -22,5 +22,6 @@ public class GetUser {
                 users[rand].status,
                 users[rand].name,
                 users[rand].id);
+        System.out.println("");
     }
 }
