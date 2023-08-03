@@ -12,6 +12,7 @@
         <module>Basic20230731</module>
         <module>Basic20230801</module>
         <module>Basic20230802</module>
+        <module>Basic20230803</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
